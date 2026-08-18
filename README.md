@@ -55,6 +55,8 @@ sylva/
 
 - **[The Complete Shelf](https://github.com/MengTo/complete-shelf)** — an original, interactive Three.js library of seven clothbound hardcovers. [Live](https://mengto.github.io/complete-shelf/)
 - **[Towers](https://github.com/MengTo/towers)** — a tower that builds itself from the ground up in four and a half seconds. [Live](https://mengto.github.io/towers/)
+- **[Kage](https://github.com/MengTo/kage)** — an interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js and layered with cinematic generated imagery. [Live](https://mengto.github.io/kage/)
+- **[Sketchbook](https://github.com/MengTo/sketchbook)** — a page-flipping sketchbook of Singapore, built as one static HTML file. [Live](https://mengto.com)
 
 ## Design and attribution
 
