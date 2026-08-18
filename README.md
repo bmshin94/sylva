@@ -51,6 +51,11 @@ sylva/
 └── README.md
 ```
 
+## With me
+
+- **[The Complete Shelf](https://github.com/MengTo/complete-shelf)** — an original, interactive Three.js library of seven clothbound hardcovers. [Live](https://mengto.github.io/complete-shelf/)
+- **[Towers](https://github.com/MengTo/towers)** — a tower that builds itself from the ground up in four and a half seconds. [Live](https://mengto.github.io/towers/)
+
 ## Design and attribution
 
 The layout began as an independent study of an editorial conservation composition by [Daniel Snows](https://www.instagram.com/danielsnows/). Sylva preserves the broad compositional idea while replacing its foreground artwork with original procedural geometry, shaders, motion, and interactions. It is not affiliated with or endorsed by the original designer.
